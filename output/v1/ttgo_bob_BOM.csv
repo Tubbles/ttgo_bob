@@ -1,0 +1,8 @@
+Quantity,Designators,Value,Device,Package
+1,C1,22μF,C-0603,C-0603
+1,C2,100nF,C-0603,C-0603
+4,"J1, J2, J3, J4",,Generic Pin Header 2.54mm 1x09 ⌀1.1mm,Pin Header 2.54mm 1x09 ⌀1.1mm
+2,"J5, J6",,Generic Pin Header 2.54mm 1x04 ⌀1.1mm,Pin Header 2.54mm 1x04 ⌀1.1mm
+2,"R1, R2",10kΩ,Resistor 1608 (0603),RESC1608 (0603)
+2,"S1, S2",STI-055A12AX,STI-055A12AX,STI-055A12AX
+1,U1,TTGO Micro-32,TTGO Micro-32,TTGO Micro-32
