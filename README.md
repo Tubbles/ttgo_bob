@@ -2,8 +2,9 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+Breakout board for the positively tiny ESP32 board [TTGO Micro-32 from LILYGO](http://www.lilygo.cn/prod_view.aspx?Id=1091).
+
+![board](resources/images/board.png)
 
 ## License
 
